@@ -1,0 +1,44 @@
+Start
+
+
+Input name
+
+Display the message "enter name"
+
+Read the user's input and store it in the variable name.
+
+
+
+Input phone
+
+Display the message "enter phone"
+
+Read the user's input and store it in the variable phone.
+
+
+
+Input email
+
+Display the message "enter email"
+
+Read the user's input and store it in the variable email.
+
+
+
+Display output heading
+
+Print "Contact info:"
+
+
+
+Print stored details
+
+Print "name:" followed by the value of name.
+
+Print "phone:" followed by the value of phone.
+
+Print "email:" followed by the value of email.
+
+
+
+End

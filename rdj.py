@@ -1,0 +1,7 @@
+name=input("enter name: ")
+phone=int(input("enter phone: "))
+email=input("enter email: ")
+print("Contact info:")
+print(f"name: {name}")
+print(f"phone: {phone}")
+print(f"email: {email}")
