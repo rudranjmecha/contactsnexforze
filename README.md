@@ -1,1 +1,2 @@
-good day:)
+added phase 1
+added phase 2
